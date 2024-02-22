@@ -1,17 +1,18 @@
-Housing Dataset Cleaning Project
+Welcome to my portfolio! 
 
-Overview
+Here you will find a collection of projects that demonstrate my skills and experience in SQL, Power BI, and Python.
 
-This project aims to clean and prepare a housing dataset for further analysis. The dataset contains information about various attributes of houses such as price, owner, size, location, and other relevant features.
+Projects
 
-Dataset
+Project 1: Data Cleaning
 
-The dataset used in this project is sourced from https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx. It contains 56 478 rows and 19 columns. Each row represents a single house entry, and each column represents a different attribute of the houses.
+Description: This project aims to clean and prepare a housing dataset for further analysis. The dataset contains information about various attributes of houses such as price, size, location, and other relevant features.
 
-Cleaning Process
+Tools Used: SQL Server
+Files:
+Data Cleaning.sql
 
-The data cleaning process involves several steps to ensure the dataset is ready for analysis. These steps include:
-
+Key Features:
 
 Standardizing Formats: Standardize formats for categorical variables and ensure consistency in data representation.
 
@@ -21,18 +22,57 @@ Removing Duplicates: Check for and remove duplicate entries in the dataset.
 
 Data Transformation: Perform transformations such as normalization or scaling to prepare the data for modeling.
 
-Data Validation: Validate the cleaned dataset to ensure it meets the quality standards required for analysis.
+Project 2: Python Movie Data Cleaning 
 
-Tools Used:
-SQL Server 
+Description: Data cleaning and correlation of a Movie dataset.
 
-To use this project, follow these steps:
+Tools Used: Python (Pandas, NumPy, Matplotlib)
 
-Clone the repository to your local machine.
-Install the required dependencies listed in requirements.txt.
-Run the data cleaning script cleaning_script.py to clean the dataset.
-The cleaned dataset will be saved as cleaned_dataset.csv in the project directory.
+Files:
+
+Python Movie Data Cleaning.ipynb (Jupyter notebook)
+
+Key Features:
+
+Data cleaning and preprocessing using Pandas.
+
+Movie correlation using a scatter plot.
+
+Project 3: Covid Data Analysis
+
+Description: A PowerBI project that aims to analyse Covid 19 deaths and vaccinations in different locations. 
+
+Tools Used: PowerBI
+
+Files:
+
+Covid Data Analysis.pbix 
+
+Key Features:
+Death percentages in each location
+
+People vaccinated in each country 
+
+Total deaths in each continent
+
+Project 4: Covid Deaths & Vaccines
+
+Description: Data analysis of the Covid 19 dataset in Sql Server. 
+
+Tools Used: SQL Server
+
+Files:
+
+Covid Deaths & Vaccines.sql 
+
+Key Features:
+Death percentages in each location
+
+People vaccinated in each country 
+
+Total deaths in each continent
+
 
 Contributors
 
-Nondumiso Sihlangu 
+Nondumiso Sihlangu
