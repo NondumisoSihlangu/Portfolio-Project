@@ -47,6 +47,7 @@ Tools Used: PowerBI
 Files:
 
 Covid Data Analysis.pbix 
+Power BI Snippets(Screenshots Folder)
 
 Key Features:
 Death percentages in each location
@@ -71,6 +72,7 @@ Death percentages in each location
 People vaccinated in each country 
 
 Total deaths in each continent
+
 
 
 Contributors
